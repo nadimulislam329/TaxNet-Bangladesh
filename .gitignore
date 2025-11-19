@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Streamlit
+.streamlit/
+
+# CSV outputs (don't commit review files)
+TaxNet_with_remarks.csv
+
+# OS
+.DS_Store
+Thumbs.db
